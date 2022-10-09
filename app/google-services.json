@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1011343503013",
+    "firebase_url": "https://bwaproject-ef87d.firebaseio.com",
+    "project_id": "bwaproject-ef87d",
+    "storage_bucket": "bwaproject-ef87d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011343503013:android:8d3a7559028c760ea8e74c",
+        "android_client_info": {
+          "package_name": "com.example.projectbwa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011343503013-sa5jg4qpjgq1oi71iueqlsp549seglj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwRemAHIKKFFq23S2vB0LGhcK-trjgldw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011343503013-sa5jg4qpjgq1oi71iueqlsp549seglj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011343503013:android:484a7b5b9b13817ea8e74c",
+        "android_client_info": {
+          "package_name": "com.unix.bwamov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011343503013-sa5jg4qpjgq1oi71iueqlsp549seglj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwRemAHIKKFFq23S2vB0LGhcK-trjgldw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011343503013-sa5jg4qpjgq1oi71iueqlsp549seglj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
